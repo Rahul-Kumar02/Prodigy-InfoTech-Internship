@@ -11,5 +11,11 @@ Role : Web Development Intern
 Duration : Augut 2025 - sep 2025
 Skills Used : HTML, CSS, JavaScript
 
-Projects completed 
+Project completed 
 Stopwatch
+
+Project completed 
+Waether app
+
+Project completed 
+Tic-Tac-Toe Game Web App

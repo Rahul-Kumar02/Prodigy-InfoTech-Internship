@@ -11,12 +11,16 @@ Role : Web Development Intern
 Duration : Augut 2025 - sep 2025
 Skills Used : HTML, CSS, JavaScript
 
+>>>
 Project completed 
 Stopwatch
+live link : https://prodigy-intern-stopwatchrk.netlify.app/
 
+>>>
 Project completed 
 Waether app
 live link : https://prodigy-intern-weather-app.netlify.app/
 
+>>
 Project completed 
 Tic-Tac-Toe Game Web App

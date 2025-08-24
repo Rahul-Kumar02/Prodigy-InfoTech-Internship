@@ -16,6 +16,7 @@ Stopwatch
 
 Project completed 
 Waether app
+live link : https://prodigy-intern-weather-app.netlify.app/
 
 Project completed 
 Tic-Tac-Toe Game Web App

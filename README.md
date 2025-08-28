@@ -25,3 +25,14 @@ live link : https://prodigy-intern-weather-app.netlify.app/
 Project completed 
 Tic-Tac-Toe Game Web App
 live link : https://prodigy-intern-tic-tac-toe-gameapp.netlify.app/
+
+>>
+Project completed 
+Personal Portfolio
+live link : https://prodigy-intern-personal-portfolio.netlify.app/
+
+>>
+Project completed 
+Landing page
+live link : https://prodigy-intern-responsive-landingpage.netlify.app/
+
